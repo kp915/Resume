@@ -15,7 +15,7 @@ h1 {
   text-align: center;
 }
 
-.topheading {
+topheading {
   text-decoration: none;
   color: inherit;
 }
@@ -32,7 +32,7 @@ td{
   padding:0 15px 0 15px
 }
 
-.dot {
+dot {
   height: 10px;
   width: 10px;
   background-color: #bbb;
@@ -40,7 +40,7 @@ td{
   display: inline-block;
 }
 
-.dot-colored {
+dot-colored {
   height: 10px;
   width: 10px;
   background-color: #66BFBF;
