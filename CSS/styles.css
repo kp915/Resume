@@ -15,10 +15,35 @@ h1 {
   text-align: center;
 }
 
+.topheading {
+  text-decoration: none;
+  color: inherit;
+}
+
 h3 {
   color: #66BFBF;
 }
 
 img {
   border-radius: 100%;
+}
+
+td{
+  padding:0 15px 0 15px
+}
+
+.dot {
+  height: 10px;
+  width: 10px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot-colored {
+  height: 10px;
+  width: 10px;
+  background-color: #66BFBF;
+  border-radius: 50%;
+  display: inline-block;
 }
